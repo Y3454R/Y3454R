@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 👋 I’m Samin Yeasar Abir
+- 🎓 I’m doing B.Sc (Engineering) in CSE, KUET 
+- 👀 I’m interested in computer science and technology
+- 🔭 I’m currently working on web developing
+- 🌱 I’m currently learning C, Swift and JavaScript
+- 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love watching animated movies, series, and anime and reading thriller books more than coding! 
+
 <!--
 **Y3454R/Y3454R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

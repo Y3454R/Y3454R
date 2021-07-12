@@ -2,7 +2,7 @@
 
 - 👋 I’m Samin Yeasar Abir
 - 🎓 I’m doing B.Sc. (Engineering) in CSE, KUET 
-- 👀 I’m interested in computer science and technology
+- 👀 I’m interested in softwares and websites
 - 🔭 I’m currently working on web developing
 - 🌱 I’m currently learning C, Swift and JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/

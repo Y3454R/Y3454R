@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C, Swift and JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love watching animated movies, series, and anime and reading thriller books more than coding! 
+- ⚡ Fun fact: I got our CSE 3200 project idea from the movie "Sicario: Day of the Soldado" 
 
 <!--
 **Y3454R/Y3454R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

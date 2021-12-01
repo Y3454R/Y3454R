@@ -4,7 +4,7 @@
 - 🎓 I’m doing B.Sc. (Engineering) in CSE, KUET 
 - 👀 I’m interested in software and web application
 - 🔭 I’m currently working on web developing
-- 🌱 I’m currently learning C, Swift and JavaScript
+- 🌱 I’m currently learning PHP and JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/
 - 😄 Pronouns: He
 - ⚡ Fun fact: I got our CSE 3200 project idea from the movie "Sicario: Day of the Soldado" 

@@ -3,7 +3,7 @@
 - 👋 I’m Samin Yeasar Abir
 - 🎓 I’m doing B.Sc. (Engineering) in CSE, KUET 
 - 👀 I’m interested in software engineering
-- 🔭 I’m currently working on academic studies
+- 🔭 I’m currently busy with academic studies
 - 🌱 I’m currently practicing data structure and algorithm
 - 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/
 - 😄 Pronouns: He

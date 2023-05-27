@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 👋 I’m Samin Yeasar Abir
-- 🎓 I’m doing B.Sc. (Engineering) in CSE, KUET 
+- 🎓 CS Graduate from KUET
 - 👀 I’m interested in software engineering
-- 🔭 I’m currently busy with academic studies
+- 🔭 I’m currently busy with job interview preparation
 - 🌱 I’m currently practicing data structure and algorithm
 - 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I got our CSE 3200 project idea from the movie "Sicario: Day of the Soldado" 
 
 <!--

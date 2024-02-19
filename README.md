@@ -2,7 +2,7 @@
 
 - 👋 I’m Samin Yeasar Abir
 - 💼 Junior Software Engineer @ CodeMarshal
-- 🎓 CS Graduate from KUET
+- 🎓 CS Grad, KUET
   <!--
 - 👀 I’m interested in software engineering
 - 🔭 I’m currently busy with several projects

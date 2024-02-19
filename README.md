@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 I’m Samin Yeasar Abir
+- 👋 Hello world! I am Samin Yeasar.
 - 💼 Junior Software Engineer @ CodeMarshal
 - 🎓 CS Grad, KUET
   <!--

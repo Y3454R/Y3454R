@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hello world! I am Samin Yeasar
+- 👋 I am Samin Yeasar
 - 🎓 CS Grad, KUET
 - 💼 Junior Software Engineer @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/) 
 - 👀 I’m interested in JavaScript, Front-end & NLP

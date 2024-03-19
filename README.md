@@ -2,6 +2,8 @@
 
 - 👋 Hello world! I am Samin Yeasar.
 - 💼 Junior Software Engineer @ CodeMarshal
+- 👀 I’m interested in JavaScript, Front-end & NLP
+- 🌱 I’m currently working with React Native & Angular
 - 🎓 CS Grad, KUET
   <!--
 - 👀 I’m interested in software engineering

@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 👋 Hello world! I am Samin Yeasar.
-- 💼 Junior Software Engineer @ CodeMarshal
+- 🎓 CS Grad, KUET
+- 💼 Junior Software Engineer @CodeMarshal-IT 
 - 👀 I’m interested in JavaScript, Front-end & NLP
 - 🌱 I’m currently working with React Native & Angular
-- 🎓 CS Grad, KUET
+- 📫 Email: syeasar.kuet@gmail.com
   <!--
 - 👀 I’m interested in software engineering
 - 🔭 I’m currently busy with several projects

@@ -4,7 +4,7 @@
 - 🎓  CS Grad, KUET
 - 💼  Junior Software Engineer @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/) 
 - 👀  I’m interested in JavaScript, Front-end & NLP
-- 🌱  I’m currently working with React Native & Angular
+- 🌱  I’m currently working with React, Next.js and Node
 - 📫  Email: syeasar.kuet@gmail.com
   <!--
 - 👀 I’m interested in software engineering

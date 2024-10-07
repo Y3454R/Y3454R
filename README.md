@@ -1,19 +1,21 @@
 ### Hi there 👋
 
 - 👋  I am Samin Yeasar
-- 🎓  CS Grad, KUET
+- 🎓  CSE Grad, KUET
 - 💼  Junior Software Engineer @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/) 
 - 👀  I’m interested in software engineering and AI.
 - 🌱  I’m currently working with JavaScript
 - 📫  Email: syeasar.kuet@gmail.com
-  <!--
+- ⚡   Fun fact: If you want to install Ubuntu, just praise Windows to a linux fanboy.
+
+<!--
 - 👀 I’m interested in software engineering
 - 🔭 I’m currently busy with several projects
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: https://www.linkedin.com/in/samin-yeasar-abir/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I got our CSE 3200 project idea from the movie "Sicario: Day of the Soldado"
-  -->
+-->
 
 <!--
 **Y3454R/Y3454R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

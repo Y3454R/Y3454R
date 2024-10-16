@@ -2,7 +2,7 @@
 
 - 👋  I am Samin Yeasar
 - 🎓  CSE Grad, KUET
-- 💼  Junior Software Engineer @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/) 
+- 💼  Jr. SWE @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/) 
 - 👀  I’m interested in software engineering and AI.
 - 🌱  I’m currently working with JavaScript
 - 📫  Email: syeasar.kuet@gmail.com

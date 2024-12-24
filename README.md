@@ -2,11 +2,12 @@
 
 - 👋  I am Samin Yeasar
 - 🎓  CSE Grad, KUET
-- 💼  Jr. SWE @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/) 
-- 👀  I’m interested in software engineering and AI
+- 💼  Jr. SWE @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/)
+- 📫  Email: syeasar.kuet@gmail.com
+<!-- - 👀  I’m interested in software engineering and AI
 - 🌱  I’m currently working with JavaScript
 - 📫  Email: syeasar.kuet@gmail.com
-- ⚡   Fun fact: If you want to install Ubuntu, just praise Windows to a linux fanboy!
+- ⚡   Fun fact: If you want to install Ubuntu, just praise Windows to a linux fanboy! -->
 
 <!--
 - 👀 I’m interested in software engineering

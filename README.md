@@ -4,6 +4,13 @@
 - 🎓  CSE Grad, KUET
 - 💼  Jr. SWE @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/)
 - 📫  Email: syeasar.kuet@gmail.com
+```
+And yet I fight, and yet I fight
+This battle all alone
+No one to cry to
+No place to call home
+```
+
 <!-- - 👀  I’m interested in software engineering and AI
 - 🌱  I’m currently working with JavaScript
 - 📫  Email: syeasar.kuet@gmail.com

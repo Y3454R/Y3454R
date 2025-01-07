@@ -1,4 +1,4 @@
-<img width="1024" alt="Banner" src="https://gifyu.com/image/SX6oV">
+<img width="1024" alt="Banner" src="https://i.imgur.com/idCrSew.gif">
 
 
 

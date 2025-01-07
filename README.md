@@ -1,4 +1,6 @@
-![Alt Text](https://i.imgur.com/idCrSew.gif)
+<div align="center">
+  <img src="https://i.imgur.com/idCrSew.gif" alt="Alt Text">
+</div>
 
 
 ### Hi there 👋

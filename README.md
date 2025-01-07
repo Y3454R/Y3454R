@@ -1,5 +1,4 @@
-<img width="1024" alt="Banner" src="https://i.imgur.com/idCrSew.gif">
-
+![Alt Text](https://i.imgur.com/idCrSew.gif)
 
 
 ### Hi there 👋

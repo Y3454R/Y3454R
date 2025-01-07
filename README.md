@@ -1,3 +1,5 @@
+<img width="1024" alt="Banner" src="https://i.pinimg.com/originals/96/ca/f5/96caf5cd0fb6f9d08a66c90d970847c7.gif">
+
 ### Hi there 👋
 
 - 👋  I am Samin Yeasar

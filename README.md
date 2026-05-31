@@ -5,10 +5,11 @@
 
 ### Hi there 👋
 
-- 👋  I am Samin Yeasar
-- 🎓  CSE Grad, KUET
-- 💼  Jr. SWE @ [CodeMarshal-IT](https://github.com/CodeMarshal-IT/)
-- 📫  Email: syeasar.kuet@gmail.com 
+* 👋 I am Samin Yeasar
+* 🎓 CSE Grad, KUET
+* 💼 Jr. SWE @ CodeMarshal-IT
+* 🌐 Website: [syeasar.vercel.app](https://syeasar.vercel.app/)
+* 📫 Email: [syeasar.kuet@gmail.com](mailto:syeasar.kuet@gmail.com)
 
 <!-- - 👀  I’m interested in software engineering and AI
 - 🌱  I’m currently working with JavaScript

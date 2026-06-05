@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 * 🐼 I am Samin Yeasar
-* 💼 Jr. SWE @ CodeMarshal-IT
+* 💼 Jr. SWE @ [CodeMarshal IT Systems](https://codemarshal.com/)
 * 🎓 CSE Grad, KUET
 * 🌐 Website: [syeasar.vercel.app](https://syeasar.vercel.app/)
 * 📫 Email: [syeasar.kuet@gmail.com](mailto:syeasar.kuet@gmail.com)
